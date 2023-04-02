@@ -5,3 +5,6 @@ run:
 .PHONY: build
 build:
 	@go build -o build/wordle cmd/main.go
+
+test:
+	@go test ./...
