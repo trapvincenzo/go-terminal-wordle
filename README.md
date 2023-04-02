@@ -2,7 +2,7 @@
 
 Who said you can't have fun on a terminal?
 
-Let's play WORDLE then!
+Let's play [WORDLE](https://www.nytimes.com/games/wordle/index.html) then! 
 
 ## Screenshots
 
