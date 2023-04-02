@@ -37,9 +37,13 @@ To run the app use the command
 ```
 make run
 ```
-and to build the binary
+to build the binary
 ```
 make build
+```
+to run the tests
+```
+make test
 ```
 
 # Authors
